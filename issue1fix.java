@@ -1,1 +1,2 @@
-modified on master branch : this is fix for the issue1
+ this is  the correctfix  for the issue1: according to manger
+
